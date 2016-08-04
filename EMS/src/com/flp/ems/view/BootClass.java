@@ -16,6 +16,7 @@ public static void main(String[] args) {
 	System.out.println("Enter 4 to View all employee");
 	System.out.println("Enter 5 to Search employree by kinId,email Id");
 	System.out.println("Enter 6 to exit the Operation");
+	System.out.println("Enter 6 to exit the Operation");
 	Scanner sc = new Scanner(System.in);
 	int userinput_value=sc.nextInt();
 	if(userinput_value==6)
